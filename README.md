@@ -21,6 +21,10 @@
 
  
 <<<<<<< HEAD
-Modificación realizada en readme
+Modificación realizada en local
 =======
 >>>>>>> origin/main
+
+
+#Creamos nuestra primera rama
+
