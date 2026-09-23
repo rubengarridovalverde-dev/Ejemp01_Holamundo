@@ -17,6 +17,5 @@
 
 
 	| Version | Modificación | Propietario de la modificación |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+	| ----------- | ----------- |
+
