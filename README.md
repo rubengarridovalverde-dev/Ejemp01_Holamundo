@@ -20,4 +20,7 @@
 	
 
  
+<<<<<<< HEAD
 Modificación realizada en readme
+=======
+>>>>>>> origin/main
