@@ -15,10 +15,8 @@
 
 [Google](https://www.google.com)
 
-| Versión | Modificación | Propietario de la modificación |
-| ....... | ............ | .............................. |
 
-	| Syntax | Description |
+	| Version | Modificación | Propietario de la modificación |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
