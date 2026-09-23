@@ -17,5 +17,5 @@
 
 
 	| Version | Modificación | Propietario de la modificación |
-	| ----------- | ----------- |
+	
 
