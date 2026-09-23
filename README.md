@@ -17,3 +17,8 @@
 
 | Versión | Modificación | Propietario de la modificación |
 | ....... | ............ | .............................. |
+
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
